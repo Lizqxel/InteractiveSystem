@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Parkgarage/Scene/Title-shota.unity
+    guid: b0114ff7f40c9db46b1baa28f10fe408
+  - enabled: 1
+    path: Assets/Parkgarage/Scene/Parkgarage_demo-iwa.unity
+    guid: 815b67f4a486d044db020e67e06ab4aa
   m_configObjects: {}
